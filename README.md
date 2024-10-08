@@ -83,7 +83,7 @@ Screenshot:
 
 # folder Structure
 ![Screenshot 2023-07-29 070116](https://github.com/roy705051/Hey_Baby_E-commerce-_Website/assets/118226807/2ced6887-9934-43c6-ae83-8ba6e6cee4ca)
-
+  
 # Do before running  the program
 1st install--> npm start
 2nd-->npm install -g json-server
@@ -97,4 +97,4 @@ Screenshot:
 
 ## Thank You
 
-# (by Team Code Breaker)
+# (by Mohit Patel)
